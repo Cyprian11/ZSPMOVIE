@@ -1,0 +1,22 @@
+.header{
+    background-color: cornflowerblue;
+    text-align: center;
+    height:auto;
+    width: 100%;
+}
+.zao-zielone{
+    background-color: greenyellow;
+    border-radius: 25px;
+    width: 35%;
+    text-align: center;
+    
+}
+.zao-rozowe{
+    text-decoration: none;
+    background-color: paleturquoise;
+    color: white;
+    border-radius: 25px;
+    width: 15%;
+    text-align: center;
+    
+}
